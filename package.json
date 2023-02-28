@@ -6,7 +6,7 @@
     "better-sqlite3": "8.0.1",
     "fs-extra": "^10.0.0",
     "mime-types": "^2.1.27",
-    "mysql": "^2.18.1"
+    "pd": "^0.8.1"
   },
   "name": "strapi-backend-v-4",
   "private": true,
